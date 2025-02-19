@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main(){
+    int  a=5 ;
+    int  b =5;
+    int result1 = a + b;
+    int result2 = a - b;
+    int result3 = a * b;
+    int result4 = a / b;
+    print(result);
+    return 0;
+}
